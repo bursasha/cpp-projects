@@ -1,10 +1,25 @@
-I learned the basics of object-oriented programming and learned 
-how to use, specify, and implement abstract data types (stack, queue, 
-expandable array, set, table). The programming language is C++. ⌨️
+# 📚 My C++ Programming University Projects 📚
 
-I also learned all the features of C++ important for the fulfillment of the different goals 
-(e.g. templates, copying/moving objects, overloading operators,...). 🔧
+## 👋🏼 Hello there! 👋🏼
 
-In the university (ČVUT FIT) module I was taught the basics of C++ with selected parts of its standard 
-library more precisely selected language structures and library functions 
-from modern C++ standards. 👨🏽‍💻
+This repository showcases my university projects exploring object-oriented programming (OOP) in C++. 💻
+
+## 🧐 What I Learned: 🧐
+
+* **OOP Fundamentals:**  Grasped the core concepts of OOP. 🧱
+* **Abstract Data Types:**  Implemented structures like stacks, queues, expandable arrays (vectors), sets, and tables. 🗃
+* **Advanced C++ Features:** Utilized templates, object copying/moving, operator overloading, and more. 🔧
+
+## ⚡️ Course Goals: ⚡️
+
+* **Master C++ Foundations:** Gained a solid understanding of C++ structures and the standard library. 👨🏽‍💻
+* **Harness Modern C++:**  Learned powerful techniques from contemporary C++ standards. ✨
+
+## 🗂️ Repository Structure: 🗂️
+
+* Each folder represents a project. 📁
+* You'll find:
+    * `... .cpp`: Files containing the code. 💾
+    * `README.md`: Detailed project descriptions.  📃
+
+## 😊 Check out my work! I'd love your feedback. 😊
